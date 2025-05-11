@@ -1,6 +1,6 @@
 # Sentiment Analysis with Custom Text Classifier
 
-This repository contains an end-to-end sentiment analysis pipeline using custom deep learning models implemented in PyTorch. It includes training, validation, inference, and visualization of performance metrics for text classification.
+This repository contains an end-to-end sentiment analysis pipeline using custom deep learning models implemented in PyTorch. It includes training, inference, and visualization of performance metrics for text classification.
 
 ## Project Description
 
